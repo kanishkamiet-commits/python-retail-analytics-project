@@ -127,9 +127,11 @@ The project includes key business performance indicators such as:
 RetailPulse-Analytics/
 
 ├── Dataset/  
-│   └── _retail_dataset.xlsx  
-├── Data_Cleaning
-      └──cleaned__retail_dataset
+│   └── _retail_dataset.xlsx
+
+├── Data_Cleaning  
+│   └──cleaned__retail_dataset.xls
+      
 ├── notebook/  
 │   └── retailpulse_analytics.ipynb  
 
